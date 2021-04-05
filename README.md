@@ -30,6 +30,7 @@
 앞으로 익힐 예정인 것들입니다.
 - Pytorch
 - Attention Deep Learning
+- Android Kotlin
 <!---
 Dongnamu/Dongnamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
