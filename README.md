@@ -1,5 +1,5 @@
 ## Introduction
-<img src="https://github.com/Dongnamu/Dongnamu/blob/main/Images/Profile.jpg" width="200" />
+![Profile Image](https://github.com/Dongnamu/Dongnamu/blob/main/Images/Profile.jpg)
 - Name : Jong Hoon Shin (English name : David Shin)
 - 
 <!---
